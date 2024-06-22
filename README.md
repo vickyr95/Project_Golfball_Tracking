@@ -17,3 +17,7 @@ PFA snapshots of our visualizations.
 - Gained insights into real-time object tracking and speed calculation using computer vision and embedded systems.
 - Enhanced our skills in integrating hardware with software for real-time data transmission and processing.
 - Achieved a deeper understanding of optimizing communication methods to improve system performance and user experience.
+
+![golf_demo1](https://github.com/vickyr95/Project_Golfball_Tracking/blob/master/golf_demo1.gif)
+
+![golf_demo2](https://github.com/vickyr95/Project_Golfball_Tracking/blob/master/golf_demo2.gif)
